@@ -9,8 +9,13 @@
 <body>
 
  <span>mensaje 1  commit 1 </span>
+<<<<<<< HEAD
  <span>mensaje 2 </span>
  <span>mensaje 3 </span>
  <span>mensaje 4 </span>
+=======
+ <span>Mensaje 2  COMMIT 2 </span>
+
+>>>>>>> 6876731ebcb6fc871a0f67361339bb57479bbbde
 </body>
 </html>
