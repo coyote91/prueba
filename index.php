@@ -16,10 +16,5 @@
 
  <span>Mensaje 2  COMMIT 2 </span>
 
-   <span>mensaje 5 </span>
- <span>mensaje 6 </span>
- <span>mensaje 7 </span>
-
-
 </body>
 </html>
